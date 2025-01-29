@@ -10,8 +10,8 @@ USDA Food Environment Atlas:  <br/>
 ______________________________________________________________________________
 **Deliverables:**  <br/>
 2 visuals that explain my thought process of prioritizing counties and districts for food access need. <br>
-![Top 10 counties with notable LACCESS metrics_ReadMe](https://github.com/user-attachments/assets/c55f0cf3-2708-43c7-a109-b6475879a852)
-![Health Concerns _ Phoenix, AZ_ReadMe](https://github.com/user-attachments/assets/ca870615-556f-4251-b64e-e1f721efbe9c)
+![Top 10 counties with notable LACCESS metrics_ReadMe](https://github.com/user-attachments/assets/056d75a8-c1ff-46b4-b406-944cae09cf70)
+![Health Concerns _ Phoenix, AZ_ReadMe](https://github.com/user-attachments/assets/b9513c4a-dffa-4b86-8f14-e4f712fd36f3)
 
 **Result:** <br/>
 Tract FIPS 4013109400 in Maricopa, AZ... to support 3,000 people monthly through supporting existing food pantries
