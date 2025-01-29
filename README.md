@@ -2,6 +2,7 @@
 Analyzing public data to identify good places to start a food assistance program
 
 Public data used:
+
 USDA Food Environment Atlas: 
 [https://www.ers.usda.gov/data-products/food-environment-atlas/data-access-and-documentation-downloads](url)
 
@@ -11,6 +12,7 @@ ______________________________________________________________________________
 Deliverables:
 
 2 visuals that explain my thought process of prioritizing counties and districts for food access need.
+
 
 Result:
 
