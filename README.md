@@ -10,3 +10,7 @@ Deliverables:
 
 Result:
     Tract FIPS 4013109400 in Maricopa, AZ... to support 3,000 people monthly through supporting current food pantries
+
+
+Other Exploration:
+    Kmeans Clustering that supports the previous findings to idenitfy high-need areas.
