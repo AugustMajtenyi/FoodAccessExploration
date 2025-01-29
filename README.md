@@ -12,7 +12,7 @@ ______________________________________________________________________________
 2 visuals that explain my thought process of prioritizing counties and districts for food access need.
 
 **Result:** <br/>
-Tract FIPS 4013109400 in Maricopa, AZ... to support 3,000 people monthly through supporting current food pantries
+Tract FIPS 4013109400 in Maricopa, AZ... to support 3,000 people monthly through supporting existing food pantries
 ______________________________________________________________________________
 **Other Exploration:**  <br/>
 Kmeans Clustering that supports the previous findings to idenitfy high-need areas.
