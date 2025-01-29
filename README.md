@@ -17,4 +17,4 @@ ______________________________________________________________________________
 Tract FIPS 4013109400 in Maricopa, AZ... to support 3,000 people monthly through existing food pantries
 ______________________________________________________________________________
 **Other Exploration:**  <br/>
-Kmeans Clustering that supports the previous findings to idenitfy high-need areas.
+Kmeans Clustering that supports the previous findings to idenitify high-need areas.
