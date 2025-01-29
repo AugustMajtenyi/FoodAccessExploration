@@ -1,5 +1,5 @@
 # FoodAccessExploration
-Analyzing public data to identify good places to start a food assistance program
+Analyzing public data to identify good places to start a food assistance program.
 
 **Public data used:**  <br/>
 USDA Food Environment Atlas:  <br/>
@@ -14,7 +14,7 @@ ______________________________________________________________________________
 ![Health Concerns _ Phoenix, AZ_ReadMe](https://github.com/user-attachments/assets/b9513c4a-dffa-4b86-8f14-e4f712fd36f3)
 
 **Result:** <br/>
-Tract FIPS 4013109400 in Maricopa, AZ... to support 3,000 people monthly through existing food pantries
+Tract FIPS 4013109400 in Maricopa, AZ... to support 3,000 people monthly through existing food pantries.
 ______________________________________________________________________________
 **Other Exploration:**  <br/>
 Kmeans Clustering that supports the previous findings to idenitify high-need areas.
