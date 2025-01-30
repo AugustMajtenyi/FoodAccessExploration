@@ -1,9 +1,10 @@
 # FoodAccessExploration
 Analyzing public data to identify good places to start a food assistance program. <br>
-Presentaion Deck: <br>
+
+**Presentaion Deck:** <br>
 [https://docs.google.com/presentation/d/1P1uYKNmZDFammItZo-DDX2oGPH7vhcBe6CV2DFjHGVo/edit#slide=id.g32b36873436_0_30
 ](url) <br>
-
+______________________________________________________________________________
 **Public data used:**  <br/>
 USDA Food Environment Atlas:  <br/>
 [https://www.ers.usda.gov/data-products/food-environment-atlas/data-access-and-documentation-downloads](url)
