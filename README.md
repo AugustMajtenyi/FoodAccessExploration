@@ -2,7 +2,7 @@
 Analyzing public data to identify good places to start a food assistance program. <br>
 
 **Presentation Deck:** <br>
-https://docs.google.com/presentation/d/1P1uYKNmZDFammItZo-DDX2oGPH7vhcBe6CV2DFjHGVo/edit#slide=id.g32b36873436_0_30 <br>
+[view](https://docs.google.com/presentation/d/1P1uYKNmZDFammItZo-DDX2oGPH7vhcBe6CV2DFjHGVo/edit#slide=id.g32b36873436_0_30) <br>
 ______________________________________________________________________________
 **Public data used:**  <br/>
 USDA Food Environment Atlas:  <br/>
